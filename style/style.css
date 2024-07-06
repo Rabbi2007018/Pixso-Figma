@@ -271,3 +271,89 @@ order: 1;
 flex-grow: 0;
 margin: 32px 0px;
 }
+
+
+#social{
+    width: 2061px;
+    height: 715px;
+    background-image: linear-gradient(0deg,white,transparent ),url(/assets/social-bg.png);
+    background-size:cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-bottom: 150px;
+}
+.socialcontain{
+    width: 1408px;
+    height: 105px;
+    text-align: center;
+}
+.socialcontai .text{
+
+}
+.socialhead{
+    color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 48px;
+font-weight: 700;
+line-height: 64px;
+letter-spacing: 0%;
+text-align: center;
+width: 858px;
+height: 136px;
+padding-left: 300px;
+}
+.socialp{
+    color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: left;
+opacity: 0.6;
+padding-left: 400px;
+padding-top: 20px;
+}
+.h4{
+    color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 25px;
+font-weight: 600;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: center;
+box-sizing: border-box;
+border-bottom: 1px solid rgba(16, 16, 16, 0.2);
+border-top: 1px solid rgba(16, 16, 16, 0.2);
+
+/* Frame 18 */
+position: static;
+width: 1320px;
+height: 99px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 30px 10px 30px 10px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 48px 0px;
+}
+.iconsocial{
+padding-right: 100px;
+display: flex;
+padding-left: 40%;
+
+
+
+
+
+
+}
